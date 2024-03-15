@@ -1,0 +1,1 @@
+cd && rm -rf Termux_HackingLab_Setup && https://github.com/Un-known001/Hacking-lab-setup-.git
