@@ -7,12 +7,16 @@
 This tools only use for educational purposes|×_×|
 
 _Enhance Your Termux Setup for Hacking on Android with an All-in-One Solution that Empowers You to Perform a Wide Range of Tasks. This Comprehensive Tool is Designed to Streamline Your Hacking Experience, Providing a Versatile Environment to Execute Various Operations. Additionally, it Offers Invaluable Support for Addressing Basic Errors and Issues Specifically Related to Termux, Ensuring a Smooth and Seamless Hacking Journey on your Android Device._
-<p align="center">
-<h1>SCREENSHOT </h1>
-<img src="https://github.com/Un-known001/Hacking_Lab_Setup/blob/afb2e4b3d8c7dd8a86cca6057d98548d6fe01c85/Src/IMG_20240319_115944.jpg"
+<h1 align="center">SCREENSHOT </h1>
+<p>
+<img src="https://github.com/Un-known001/Hacking_Lab_Setup/blob/65e8c87f629afa20d32cf25e4af95dc628b67833/Src/IMG_20240319_120019.jpg"
+  </p>
+  <p>
+    <img src="https://github.com/Un-known001/Hacking_Lab_Setup/blob/afb2e4b3d8c7dd8a86cca6057d98548d6fe01c85/Src/IMG_20240319_115944.jpg"
+  </p>
+
   
-  
-</p>
+
 
 
 
